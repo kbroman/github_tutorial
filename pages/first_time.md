@@ -58,7 +58,7 @@ but repeated here for completeness.
 
   - If it says something like the following, it worked:
 
-        Hi username! You've successfully authenticated, but Github does
+        Hi Hithyshi! You've successfully authenticated, but Github does
         not provide shell access.
 
 **Next**: [Typical use](routine.html)

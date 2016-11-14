@@ -18,7 +18,7 @@ Say you want to contribute changes to someone else's repository (eg,
 
 - Type
 
-      $ git clone git@github.com:username/the_repo
+      $ git clone https://github.com:username/the_repo
 
   where `username` is _your_ username.
 

@@ -1,6 +1,7 @@
 ## git/github guide: Karl's minimal tutorial
 
 Added a line of text to ReadMe.md
+This is supposed to be a new branch
 
 All statistical/computational scientists should use
 [git](http://git-scm.com) and [github](http://github.com), but it can be

@@ -44,6 +44,8 @@ may collaborate more easily.  But for
 statisticians with no history of use of version control, it can be
 hard to get started.  This is a tutorial of sorts, to help.
 
+And you have now introduced another potential future collaborator to use git.
+
 [Saunak Sen](http://www.epibiostat.ucsf.edu/biostat/sen/index.html)
 got me started with version control (using subversion), and
 [Pjotr Prins](http://www.thebird.nl) got me to move from subversion to

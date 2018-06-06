@@ -5,7 +5,7 @@ description: How to amend the last git commit message
 ---
 
 &ldquo;Oops!  That last commit message was screwed up.
-[How do I edit an incorrect commit message?](http://stackoverflow.com/questions/179123/how-do-i-edit-an-incorrect-commit-message-in-git)&rdquo;
+[How do I edit an incorrect commit message?](https://stackoverflow.com/questions/179123/how-do-i-edit-an-incorrect-commit-message-in-git)&rdquo;
 
 This usually happens to me when I intended to use just `git commit`
 but typed `git commit -a` and committed a whole bunch more stuff

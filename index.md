@@ -6,7 +6,7 @@ description: Git/GitHub Guide - a minimal tutorial
 ---
 
 All statistical/computational scientists should use
-[git](http://git-scm.com) and [github](http://github.com), but it can be
+[git](https://git-scm.com) and [github](https://github.com), but it can be
 hard to get started.  I hope these pages help.  (More blather below.)
 
 There are many resources for git and github; my aim is to provide the
@@ -52,13 +52,13 @@ understanding.
 
 If you have suggestions for changes or improvements,
 [submit an issue](https://github.com/kbroman/github_tutorial/issues) or
-fork [the repo](http://github.com/kbroman/github_tutorial): Follow the
+fork [the repo](https://github.com/kbroman/github_tutorial): Follow the
 instructions above, &ldquo;[Contribute to someone's repository](pages/fork.html).&rdquo;
 
-Also see my [tutorials](http://kbroman.org/pages/tutorials) on
-[GNU make](http://kbroman.org/minimal_make),
-[knitr](http://kbroman.org/knitr_knutshell),
-[R packages](http://kbroman.org/pkg_primer),
-[making a web site with GitHub Pages](http://kbroman.org/simple_site),
-[data organization](http://kbroman.org/dataorg),
-and [reproducible research](http://kbroman.org/steps2rr).
+Also see my [tutorials](https://kbroman.org/pages/tutorials) on
+[GNU make](https://kbroman.org/minimal_make),
+[knitr](https://kbroman.org/knitr_knutshell),
+[R packages](https://kbroman.org/pkg_primer),
+[making a web site with GitHub Pages](https://kbroman.org/simple_site),
+[data organization](https://kbroman.org/dataorg),
+and [reproducible research](https://kbroman.org/steps2rr).

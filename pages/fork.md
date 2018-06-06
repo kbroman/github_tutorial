@@ -5,10 +5,10 @@ description: Contributing to someone's GitHub repository
 ---
 
 Say you want to contribute changes to someone else's repository (eg,
-[this one](http://github.com/kbroman/github_tutorial)).
+[this one](https://github.com/kbroman/github_tutorial)).
 
 - Go to the repository on github.  (Say it's by `myfriend`, and is
-  called `the_repo`, then you'll find it at `http://github.com/myfriend/the_repo`.)
+  called `the_repo`, then you'll find it at `https://github.com/myfriend/the_repo`.)
 
 - Click the &ldquo;Fork&rdquo; button at the top right.
 
@@ -48,7 +48,7 @@ Say you want to contribute changes to someone else's repository (eg,
 
 - `git add` and `git commit` those changes
 
-- `git push` them back to [github](http://github.com).  These will go
+- `git push` them back to [github](https://github.com).  These will go
   to _your version_ of the repository.
 
 - Note: if you get an error like:
@@ -56,7 +56,7 @@ Say you want to contribute changes to someone else's repository (eg,
       error: src refspec master does not match any.
       error: failed to push some refs to 'git@github.com:username/the_repo'
 
-Then try `git push origin HEAD:gh-pages` (see [stackoverflow.](http://stackoverflow.com/questions/4181861/src-refspec-master-does-not-match-any-when-pushing-commits-in-git)). Typing `git show-ref` can show what reference to put after HEAD.
+Then try `git push origin HEAD:gh-pages` (see [stackoverflow.](https://stackoverflow.com/questions/4181861/src-refspec-master-does-not-match-any-when-pushing-commits-in-git)). Typing `git show-ref` can show what reference to put after HEAD.
 
 - Go to _your version_ of the repository on github.
 

@@ -8,7 +8,7 @@ I touched on just a few things about git.  Get yourself going with git and
 github and then start looking at some of the many
 [resources](resources.html).
 
-In particular, pay attention to: [Branching](http://git-scm.com/book/en/Git-Branching-Basic-Branching-and-Merging):
+In particular, pay attention to: [Branching](https://git-scm.com/book/en/Git-Branching-Basic-Branching-and-Merging):
 Create a separate _branch_ to develop a feature (or work on a
 bug) without disturbing the _master_ branch.  If it works out, you
 can merge it back into the master; if it doesn't, you can trash it.

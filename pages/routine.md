@@ -4,11 +4,11 @@ title: Routine use of git and github
 description: Day-to-day use of git and GitHub
 ---
 
-The routine use of [git](http://git-scm.com) involves just a few commands:
+The routine use of [git](https://git-scm.com) involves just a few commands:
 principally `add`, `commit`, and `push`, but also `status` and
 `diff`.
 
-You can deal with git and github via a [GUI](http://mac.github.com/),
+You can deal with git and github via a [GUI](https://mac.github.com/),
 but I prefer the command line, and so that's all I'll discuss.
 
 ### Add and commit
@@ -22,7 +22,7 @@ Then use `git commit` to add the modifications to the repository.
 
     $ git commit
 
-A text editor (e.g., [emacs](http://www.gnu.org/software/emacs)) will
+A text editor (e.g., [emacs](https://www.gnu.org/software/emacs)) will
 open; add a short message describing the changes.
 
 To abandon your commit, exit the editor without adding text.
@@ -56,7 +56,7 @@ separate `add` and `commit` commands and just type
 I try to avoid this, as it can lead to mistakes (committing more
 modifications than intended).
 
-### Push to [github](http://github.com)
+### Push to [github](https://github.com)
 
 To push committed changes to github, type
 
@@ -113,11 +113,11 @@ of commit messages they write.
 ### What to commit?
 
 Don't include files that are derived from other files in the repository.  (Are you using
-[make](http://www.gnu.org/software/make/) or
-[rake](http://rake.rubyforge.org/)?  You should be!  See my
-[make tutorial](http://kbroman.org/minimal_make).)
+[make](https://www.gnu.org/software/make/) or
+[rake](https://rake.rubyforge.org/)?  You should be!  See my
+[make tutorial](https://kbroman.org/minimal_make).)
 
-For example, for a [LaTeX](http://www.latex-project.org/) manuscript,
+For example, for a [LaTeX](https://www.latex-project.org/) manuscript,
 I wouldn't include all the .log, .dvi, .aux, etc., files.  And if I
 have R code to generate a figure, I'll include the R code but not the
 figure.

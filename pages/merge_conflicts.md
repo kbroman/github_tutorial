@@ -4,7 +4,7 @@ title: Handling merge conflicts
 description: Handling git merge conflicts
 ---
 
-One of the best features of [git](http://git-scm.com) is its ability
+One of the best features of [git](https://git-scm.com) is its ability
 to easily merge multiple changes by different people.
 
 Say you and a

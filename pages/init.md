@@ -24,11 +24,11 @@ start exploring it.
 
 The first file to create (and add and commit) is probably a ReadMe
 file, either as plain text or with
-[Markdown](http://daringfireball.net/projects/markdown/), describing
+[Markdown](https://daringfireball.net/projects/markdown/), describing
 the project.
 
 Markdown allows you to add a bit of text markup, like
-[hyperlinks](http://en.wikipedia.org/wiki/Hyperlink),
+[hyperlinks](https://en.wikipedia.org/wiki/Hyperlink),
 **bold**/_italics_, or to indicate code with a `monospace
 font`. Markdown is easily converted to html for viewing in a web
 browser, and GitHub will do this for you automatically.
@@ -55,7 +55,7 @@ You've now got a local git repository.  You can use git locally, like
 that, if you want.  But if you want the thing to have a home on github, do
 the following.
 
-- Go to [github](http://github.com).
+- Go to [github](https://github.com).
 - Log in to your account.
 - Click the [new repository](https://github.com/new) button in the
 top-right.  You'll have an option there to initialize the repository with a README
@@ -74,7 +74,7 @@ Actually, the first line of the instructions will say
 
 But I use `git@github.com:username/new_repo` rather than `https://github.com/username/new_repo`, as the
 former is for use with
-[ssh](http://en.wikipedia.org/wiki/Secure_Shell) (if you set up ssh as
+[ssh](https://en.wikipedia.org/wiki/Secure_Shell) (if you set up ssh as
 I mentioned in "[Your first time](first_time.html)", then you won't
 have to type your password every time you push things to github). If
 you use the latter construction, you'll have to type your github

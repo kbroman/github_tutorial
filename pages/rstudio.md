@@ -4,22 +4,22 @@ title: git/github with RStudio
 description: Use of git/GitHub in RStudio
 ---
 
-[RStudio](http://www.rstudio.com/ide) is a popular development
-environment for [R](http://www.r-project.org).
+[RStudio](https://www.rstudio.com/ide) is a popular development
+environment for [R](https://www.r-project.org).
 
-RStudio has built-in facilities for [knitr](http://yihui.name/knitr/)
-(the superb successor to [Sweave](http://www.stat.uni-muenchen.de/~leisch/Sweave/)) and [R Markdown](http://www.rstudio.com/ide/docs/r_markdown) (a
+RStudio has built-in facilities for [knitr](https://yihui.name/knitr/)
+(the superb successor to [Sweave](https://www.stat.uni-muenchen.de/~leisch/Sweave/)) and [R Markdown](https://rmarkdown.rstudio.com) (a
 variant of
-[Markdown](http://daringfireball.net/projects/markdown/syntax)), which
+[Markdown](https://daringfireball.net/projects/markdown/syntax)), which
 are highly recommended for writing data analysis reports.
 
-And RStudio has built-in facilities for [git](http://git-scm.com/) and
-[GitHub](http://www.github.com).  See
-[this document on how to use version control with RStudio](http://www.rstudio.com/ide/docs/version_control/overview). It's
+And RStudio has built-in facilities for [git](https://git-scm.com/) and
+[GitHub](https://www.github.com).  See
+[this document on how to use version control with RStudio](https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN). It's
 pretty straightforward.
 
 Basically, in RStudio you want to create a Project
-([described further here](http://www.rstudio.com/ide/docs/using/projects)),
+([described further here](https://www.rstudio.com/ide/docs/using/projects)),
 which is basically a directory with some special files to describe
 project-specific RStudio options. This Project will be your git
 repository. Or you can easily turn a current git repository into an

@@ -8,12 +8,12 @@ For my own repositories, I like to use [gitx](http://gitx.frim.nl/) on
 my Mac to explore the commit history.
 
 But, of course, you can also just poke around
-[github](http://github.com) itself.
+[github](https://github.com) itself.
 
 And you can do a lot of things from the command line, say to look at
 the combined changes to a file that were made over the last year.
 See the
-[github page about `git diff`](http://learn.github.com/p/diff.html).
+[github page about `git diff`](http://jaimeiniesta.github.io/learn.github.com/p/diff.html).
 
 ### Tags
 
@@ -23,7 +23,7 @@ sequence of letters and numbers, like
 When you refer to these hash tags, you can just use an initial substring,
 like `4d9fe`, that is unique to your repository.
 
-For my [R/qtl package](http://github.com/kbroman/qtl), I like to tag
+For my [R/qtl package](https://github.com/kbroman/qtl), I like to tag
 particular commits by the version number of the package. Then I can
 use my assigned tag in place of the less memorable hash tag.
 

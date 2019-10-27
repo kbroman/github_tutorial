@@ -4,6 +4,10 @@ title: Delete a repository
 description: How to delete a GitHub repository
 ---
 
+### How to delete your complete repository on GitHub
+
+Warning: By following these steps, you will lost your work for ever!  
+
 Say you want to contribute changes to someone else's repository (eg,
 [this one](https://github.com/kbroman/github_tutorial)).
 

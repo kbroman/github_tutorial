@@ -50,4 +50,4 @@ Here are some examples.
 
 - [My brief summary of git commands](https://github.com/kbroman/Tools4RR/tree/master/04_Git/GitCommands/git_notes.md)
 
-**Next**: [Delete a Repository](delete.html)
+

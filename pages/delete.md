@@ -4,17 +4,20 @@ title: Delete a repository
 description: How to delete a GitHub repository
 ---
 
-### How to delete your complete repository on GitHub
+### How to delete a complete repository on GitHub
 
-Warning: By following these steps, you will lost your work for ever!  
+Warning: By following these steps, you will lost this Repo for ever!  
 
-Say you want to contribute changes to someone else's repository (eg,
-[this one](https://github.com/kbroman/github_tutorial)).
 
-- Go to the repository on github.  (Say it's by `myfriend`, and is
-  called `the_repo`, then you'll find it at `https://github.com/myfriend/the_repo`.)
+So if you are sure, this is what you want, then it needs only 7 Steps:
 
-- Click the &ldquo;Fork&rdquo; button at the top right.
+- Click on &ldquo;your Avatar&rdquo;  at the upper right corner.
+      Click on &ldquo;your Profile&rdquo;  in the list.
+
+- Click on &ldquo;Repositories&rdquo;  in the Menue on the right of your Profile Image.
+
+
+	
 
 - You'll now have your own copy of that repository in your github account.
 

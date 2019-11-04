@@ -11,9 +11,9 @@ To delete your repository on Github:
 - Click on &ldquo;Settings&rdquo; (below the Unwatch/Star/Fork buttons
   on the right)
 
-- Scroll down the side to the &ldquo;Danger Zone&rdquo; and click &ldquo;Delete this Repository&rdquo;
+- Scroll down to &ldquo;Danger Zone&rdquo; and click &ldquo;Delete this Repository&rdquo;
 
-- Confirm the name of the repository.
+- Confirm the name of the repository
 
 On your local machine, the `.git` directory/folder within your repository's
 directory contains the full git history. If you delete that directory,

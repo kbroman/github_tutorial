@@ -25,7 +25,7 @@ minimal guide to get started.
 - [Exploring the code and its history](pages/exploring_code.html):
   tag, diff
 - [Branching and merging](pages/branching.html).
-- [Delete a Repository](pages/delete.html).
+- [Delete a repository](pages/delete.html).
 - [Git/github with RStudio](pages/rstudio.html)
 - [Other (much more thorough) resources](pages/resources.html).
 

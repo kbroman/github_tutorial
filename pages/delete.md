@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Delete a Repository
+title: Delete a repository
 description: How to delete a GitHub repository
 ---
 

@@ -39,6 +39,8 @@ I use git mostly from the command line on a Mac.  I use the github
 site to explore others' code, to indicate issues in their code, and
 suggest changes to their code.
 
+I changed this file to see what it will do when I will push changes.
+
 I would like all of my statistical/computational collaborators to use
 git and github, so that we
 may collaborate more easily.  But for

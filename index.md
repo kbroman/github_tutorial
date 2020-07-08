@@ -1,5 +1,5 @@
 ---
-layout: page
+yout: page
 title: git/github guide
 tagline: a minimal tutorial
 description: Git/GitHub Guide - a minimal tutorial

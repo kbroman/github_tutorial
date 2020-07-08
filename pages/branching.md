@@ -1,5 +1,5 @@
 ---
-layout: page
+out: page
 title: Branching and merging
 description: Git branching and merging
 ---

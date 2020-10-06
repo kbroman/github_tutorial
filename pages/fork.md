@@ -33,8 +33,9 @@ Say you want to contribute changes to someone else's repository (eg,
       $ git remote add myfriend git://github.com/myfriend/the_repo
 
 - Note the distinction between `git@github.com:` in the first case and
-  `git://github.com/` in the second case.  I'm not sure why these need
-  to be the way they are, but that's what works for me.
+  `git://github.com/` in the second case.  The former is for the case
+  that you have _write_ access to the repository, whereas the latter is
+  what to do when you only want _read_ access.
 
 - Also note the first myfriend does not need to be the same as the username of `myfriend`.  You could very well choose:
 

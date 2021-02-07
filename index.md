@@ -56,7 +56,7 @@ If you have suggestions for changes or improvements,
 fork [the repo](https://github.com/kbroman/github_tutorial): Follow the
 instructions above, &ldquo;[Contribute to someone's repository](pages/fork.html).&rdquo;
 
-Also see my [tutorials](https://kbroman.org/pages/tutorials) on
+Also see my [tutorials](https://kbroman.org/tutorials) on
 [GNU make](https://kbroman.org/minimal_make),
 [knitr](https://kbroman.org/knitr_knutshell),
 [R packages](https://kbroman.org/pkg_primer),

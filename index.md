@@ -5,6 +5,7 @@ tagline: a minimal tutorial
 description: Git/GitHub Guide - a minimal tutorial
 ---
 
+Changing the index file for testing
 All statistical/computational scientists should use
 [git](https://git-scm.com) and [github](https://github.com), but it can be
 hard to get started.  I hope these pages help.  (More blather below.)

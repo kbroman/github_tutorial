@@ -1,3 +1,7 @@
+# Thank you for the tutorial
+
+I followed the written tutorial at [kbroman.org](https://kbroman.org/github_tutorial/pages/fork.html)
+
 ## git/github guide: Karl's minimal tutorial
 
 All statistical/computational scientists should use

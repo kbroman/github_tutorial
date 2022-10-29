@@ -3,7 +3,7 @@
 All statistical/computational scientists should use
 [git](https://git-scm.com) and [github](https://github.com), but it can be
 hard to get started.  I hope these pages help.
-
+dasdasd
 There are many resources for git and github; my aim is to provide the
 minimal guide to get started.
 

@@ -13,20 +13,21 @@ module Jekyll
   class Post
     def inspect
       "#Jekyll:Post @id=#{self.id.inspect}"
+      #comment
     end
   end
-  
+
   class Page
     def inspect
       "#Jekyll:Page @name=#{self.name.inspect}"
     end
   end
-  
+
 end # Jekyll
-  
+
 module Jekyll
   module DebugFilter
-    
+
     def debug(obj, stdout=false)
       puts obj.pretty_inspect if stdout
       "<pre>#{obj.class}\n#{obj.pretty_inspect}</pre>"

@@ -11,7 +11,7 @@ for learning to use [git](https://git-scm.com) and
 
 Here are some examples.
 
-- The [git documentation](https://git-scm.com/documentation)
+- The [git documentation](https://git-scm.com/docs)
 
 - The [Pro Git book](https://git-scm.com/book)
 
@@ -49,5 +49,3 @@ Here are some examples.
 - [Slides for lecture I gave about git/github, with notes](https://kbroman.org/Tools4RR/assets/lectures/04_git_withnotes.pdf)
 
 - [My brief summary of git commands](https://github.com/kbroman/Tools4RR/tree/master/04_Git/GitCommands/git_notes.md)
-
-

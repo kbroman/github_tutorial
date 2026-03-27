@@ -34,7 +34,7 @@ Here are some examples.
 
 - Using GitHub with [RStudio](https://www.rstudio.com):
 
-  - [Using GitHub with R and Rstudio](https://markrchristie.wordpress.com/2013/11/26/using-github-with-r-and-rstudio/)
+  - [Using GitHub with R and Rstudio](https://www.molecularecologist.com/2013/11/12/using-github-with-r-and-rstudio/)
     by [Mark Christie](https://www.christielab.com/)
 
   - [Getting started with GitHub](https://jennybc.github.io/2014-05-12-ubc/ubc-r/session2.4_github.html)

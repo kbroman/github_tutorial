@@ -32,7 +32,7 @@ Here are some examples.
 - [Git and Github videos for beginners](https://www.dataschool.io/git-and-github-videos-for-beginners/)
   by [Kevin Markham](https://www.dataschool.io/about/)
 
-- Using GitHub with [RStudio](https://www.rstudio.com):
+- Using GitHub with [RStudio](https://posit.co/download/rstudio-desktop/):
 
   - [Using GitHub with R and Rstudio](https://www.molecularecologist.com/2013/11/12/using-github-with-r-and-rstudio/)
     by [Mark Christie](https://www.christielab.com/)
